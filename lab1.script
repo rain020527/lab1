@@ -1,0 +1,19 @@
+Script started on 2017年03月12日 (週日) 22時54分34秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.email=abcnewman123@gmail.com
+user.name=Raingod
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/rain020527/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m https://github.com/rain020527/lab1ghttps://github.com/rain020527/lab1ihttps://github.com/rain020527/lab1thttps://github.com/rain020527/lab1 https://github.com/rain020527/lab1chttps://github.com/rain020527/lab1lhttps://github.com/rain020527/lab1ohttps://github.com/rain020527/lab1nhttps://github.com/rain020527/lab1ehttps://github.com/rain020527/lab1 https://github.com/rain020527/lab1
+fatal: destination path 'lab1' already exists and is not an empty directory.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/rain020527/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on 2017年03月12日 (週日) 22時56分14秒
